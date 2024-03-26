@@ -1,0 +1,15 @@
+.header{
+    padding:30px;
+    text-align: left;
+    background: yellow;
+    color: black;
+    font-size: 40 px;
+
+}
+
+
+.divStyle{
+    max-width: fit-content;
+    margin-left:auto;
+    margin-right:auto;
+}
